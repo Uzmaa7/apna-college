@@ -1,3 +1,3 @@
 # apna-college
 learning basics
-author-xyz
+author-qwerty
